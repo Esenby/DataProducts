@@ -37,8 +37,7 @@ shinyServer(
                             \n Simulated mean =", mean_sampno," and standard deviation =",std_sampno))
             legend("topright",legend=c("Normal distribution", "Mean"),col=c("blue","red"),lty=c(1),cex=1, bty="n")
             
-            }
-         
+        }
     )
   }
 )
