@@ -1,5 +1,10 @@
-Central Limit Theorem - highlighted by Shiny
+Central Limit Theorem      - highlighted by Shiny
 ========================================================
+
+
+
+
+
 
 author: SNB
 
@@ -48,10 +53,12 @@ $$
 In other words the averages of the large number of sample are distributed normally 
 with their estimate mean and standard error as parameters. </small>
 
-Shiny Application for simulating with all three variables
-=========================================================
+Shiny Application - varying three parameters
+============================================
+
 <small>The first step towards this aim uses two variables to monitor the asymptotic behaviour of the 
 simulations in this simple application: 
+
 [Simulating the Central Limit Theorem](https://esenby.shinyapps.io/PeerAssignment)
 
 Here the population and sample size are able to be changed simultaneously.
